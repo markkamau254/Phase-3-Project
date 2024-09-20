@@ -40,7 +40,7 @@ After running the program, you'll see a menu with the following options:
 
 css
 Copy code
-` **** Book Manager ****`
+**** Book Manager ****
 `1) Add a book
 2) Lookup a book
 3) Display books
