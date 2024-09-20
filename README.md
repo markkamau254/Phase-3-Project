@@ -20,8 +20,8 @@ The books are stored in a SQLite database `(theBookList.db)`, making it easier t
 **Clone the repository:**
 bash
 Copy code
-```git clone https://github.com/your-username/book-manager-sqlite.git
-cd book-manager-sqlite
+`git clone https://github.com/your-username/book-manager-sqlite.git
+cd book-manager-sqlite`
 
 2. **Install Python (if not already installed):**
     - Download and install Python from [python.org].
@@ -33,20 +33,20 @@ cd book-manager-sqlite
     - Run the Python file:
 bash
 Copy code
-```python book_manager.py
+`python book_manager.py`
 
 ## Usage
 After running the program, you'll see a menu with the following options:
 
 css
 Copy code
-```**** Book Manager ****
-1) Add a book
+` **** Book Manager ****`
+`1) Add a book
 2) Lookup a book
 3) Display books
 4) Update a book
 5) Delete a book
-6) Exit
+6) Exit`
 Choose an option by entering its number and follow the on-screen instructions.
 
 ## Example
