@@ -33,7 +33,7 @@ cd book-manager-sqlite
     - Run the Python file:
 bash
 Copy code
-```python book_manager.py```
+```python book_manager.py
 
 ## Usage
 After running the program, you'll see a menu with the following options:
@@ -46,7 +46,7 @@ Copy code
 3) Display books
 4) Update a book
 5) Delete a book
-6) Exit```
+6) Exit
 Choose an option by entering its number and follow the on-screen instructions.
 
 ## Example
