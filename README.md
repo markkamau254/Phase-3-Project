@@ -21,7 +21,7 @@ The books are stored in a SQLite database `(theBookList.db)`, making it easier t
 bash
 Copy code
 ```git clone https://github.com/your-username/book-manager-sqlite.git
-cd book-manager-sqlite```
+cd book-manager-sqlite
 
 2. **Install Python (if not already installed):**
     - Download and install Python from [python.org].
